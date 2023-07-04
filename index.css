@@ -1,0 +1,74 @@
+.all{
+background-color: #000;
+color: #fff;
+
+}
+
+.font-green{
+    color:#25a71a;
+}
+
+.grid-flex-center{
+    display: grid;
+    justify-content: center;
+}
+
+.font-sub-title{ 
+    font-size: 10.5px
+}
+
+.font-weight{
+    font-weight: 700;
+}
+
+.button-padding{
+    padding: 23px 0px 0px 0px;
+}
+
+.padding-icon{
+    padding: 23px;
+}
+    
+
+.btn-color{
+    border-color: #25a71a;
+    color: #25a71a;
+}
+
+.btn:hover{
+    background-color: #25a71a;
+}
+
+.enterprise-padding{
+    padding: 23px 0px 0px 0px;
+    font-family: Jomhuria;
+}
+
+.font-title{
+    font-family: Jomhuria;
+    font-weight: 900;
+}
+
+.but-padding{
+    padding: 10px 60px 10px 60px;
+}
+
+.btn-padding{
+    padding: 10px 52px 10px 52px;
+}
+
+.fa-brands{
+    position: relative;
+    left: 20px;
+    top: 32px;
+}
+
+.fa-solid {
+    position: relative;
+    left: 20px;
+    top: 32px;
+}
+
+.butt-padding{
+    padding: 5px;
+}
